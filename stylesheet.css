@@ -1,0 +1,275 @@
+*/stylesheet*/
+
+#design{
+width:100%;
+padding:0;
+margin:0;
+height:100px;
+}
+#design p{
+color:#fff0b3;
+text-align:center;
+text-style:none;
+font-family;Serif;
+align:center;
+vertical-align: middle;
+horizontal-align: middle;
+line-height: 100px;
+font-size:50px;
+}
+img{ height:100%;
+width:100%;
+}
+
+
+.circle{
+height: 17%;
+width: 17%;
+border-radius: 150px;
+border-radius: 150px;
+background-color:#fff0b3;
+display: inline-block;
+margin:70px;
+text-decoration:none;
+list-style-type:none;
+color:white
+
+}
+
+#navbar{
+background-color:#ffd11a;
+color:white;
+text-shadow: 2px 2px #ff0000;
+font-size:25px;
+width:100%;
+height:10%
+display:inline;
+text-style:none;
+list-style-type:none;
+text-align:center;
+}
+ul{
+display:inline;
+text-style:none;
+list-style-type:none;
+}
+
+li a{ 
+width:17%;
+background-color:#ffd11a;
+color:white;
+margin:0;
+padding:0;
+display:block;
+text-style:none;
+list-style-type:none;
+float:left;
+}
+
+li a:hover{
+width:17%;
+background-color:#fff0b3;
+color:black;
+padding:none;
+display:block;
+text-style:none;
+list-style-type:none;
+float:left;
+}
+
+
+
+#photography{
+text-align:center;
+text-style:none;
+font-family;Serif;
+align:center;
+vertical-align: middle;
+line-height: 180px;
+color:#ff944d; 
+background:url(https://farm2.staticflickr.com/1498/26073677406_45e539f87d_k.jpg) no-repeat center center;  
+background-size:180px 180px;
+}
+
+
+
+#designn{
+text-align:center;
+text-style:none;
+font-family;Serif;
+align:center;
+vertical-align: middle;
+line-height: 180px;
+color:#ff944d;
+background:url(https://farm2.staticflickr.com/1541/26027487552_fb771ee974_b.jpg) no-repeat top left; 
+
+}
+
+#media{
+text-align:center;
+text-style:none;
+font-family;Serif;
+align:center;
+vertical-align: middle;
+line-height: 180px;
+color:#ff944d;
+background:url(https://farm2.staticflickr.com/1485/25515481764_1ccfb9d961_b.jpg) no-repeat center center;
+background-size:180px 180px;
+}
+
+
+a:link {
+    text-decoration: none;
+colour:white;
+}
+
+a:visited {
+    text-decoration: none;
+colour:#fff5cc;
+}
+
+a:hover {
+    text-decoration: underline;
+colour:#e6b800
+}
+
+a:active {
+    text-decoration: underline;
+colour:white;
+}
+
+.rectangle{
+height: 17%;
+width: 28.5%;
+border-radius: 20px;
+border-radius: 20px;
+background-color:#fff0b3;
+display: inline-block;
+margin:70px;
+text-decoration:none;
+list-style-type:none;
+align:center;
+color:#ff944d;
+font-size;:0px;
+}
+
+#id{
+text-align:center;
+text-style:none;
+font-family;Serif;
+align:center;
+vertical-align: middle;
+line-height: 180px;
+}
+#info{
+text-align:center;
+text-style:none;
+font-family;Serif;
+align:center;
+vertical-align: middle;
+line-height: 180px;
+}
+
+footer{
+background-color:#ff944d;
+width:100%;
+height:20px;
+position:fixed;
+   left:0px;
+   bottom:0px;
+ }
+
+
+body{
+ background: linear-gradient(white, #ffcc00);
+}
+
+.circle a {
+color:#ff944d;
+font-size:15px;
+font-family:arial;
+font-weight:bold;
+text-shadow:2px 2px white;
+}
+.rectangle a{
+color:#ff944d;
+font-size:15px;
+font-family:arial;
+font-weight:bold;
+text-shadow:2px 2px white;
+}
+
+
+.imgsize{
+display:inline-block;
+width: 400px;
+padding:20px;
+height:200px;
+border-radius: 50px;
+border-radius: 50px;
+}
+
+.dessize{
+display:inline-block;
+width: 300px;
+padding:10px;
+height:200px;
+}
+
+.dessize  p{
+display:inline-block;
+float:left;
+color:white;
+border: solid 2px #ff944d;
+border-radius: 5px;
+background-color:#ffcc00;
+padding:5px;
+}
+ 
+#video{
+padding: 10px;
+float:left;
+display:block;
+}
+
+#video p{
+float:right;
+color:white;
+font-size:18px;
+font-family:serif;
+}
+#me img{
+height: 17%;
+width: 28.5%;
+float:center;
+padding:20px;
+border-radius: 150px;
+border-radius: 150px;
+}
+
+#me p{
+float:center;
+color:white;
+border: solid 2px #ff944d;
+border-radius: 5px;
+background-color:#ffcc00;
+padding:5px;
+font-family:serif;
+}
+#me h1{
+color:#ff944d;
+float:center;
+font-family:serif;
+font-size:20px;
+}
+
+#me{
+height: 80%;
+width:100%;
+}
+
+table{ height: 80%;
+width:40%;
+padding:50px;
+}
+
